@@ -25,7 +25,7 @@ The goal of this project is to provide a clear and interactive visual summary of
 
 ## 📁 Project Files
 
-- `Superstore.pbix` – Main Power BI dashboard file
+- `superstore_sales_analysis_powerbi.pdf` – Power BI dashboard PDF file
 - `Superstore.csv` – Dataset used
 - `README.md` – Project documentation (this file)
 
@@ -33,4 +33,4 @@ The goal of this project is to provide a clear and interactive visual summary of
 
 1. Clone this repository:
    ```bash
-   [git clone https://github.com/your-username/superstore-powerbi-dashboard.git](https://github.com/vishnuvsh321/Superstore_sales_analysis_pbi_dashboard)
+   [[git clone https://github.com/your-username/superstore-powerbi-dashboard.git](https://github.com/vishnuvsh321/Superstore_sales_analysis_pbi_dashboard)](https://github.com/vishnuvsh321/Superstore_sales_analysis_pbi_dashboard)
