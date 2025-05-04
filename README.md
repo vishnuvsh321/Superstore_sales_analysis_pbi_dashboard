@@ -26,6 +26,7 @@ The goal of this project is to provide a clear and interactive visual summary of
 ## 📁 Project Files
 
 - `superstore_sales_analysis_powerbi.pdf` – Power BI dashboard PDF file
+- `superstore.pbix` - PowerBI file
 - `Superstore.csv` – Dataset used
 - `README.md` – Project documentation (this file)
 
